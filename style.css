@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnn5gt9WLlyi37663yxsVgMzMTpWUWFl6KKQ&s);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+h1{
+    font-size: 40px;
+    color: white;
+}
+h1:hover{
+    color: #ff9d00;
+}
+input{
+    height: 20px;
+    width: 150px;
+}
+label{
+    font-size: 20px;
+    color: white;
+}
+label:hover{
+    color: #ff9d00;
+}
+button{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: #ff9d00;
+    font-size: 15px;
+    font-weight: 700;
+}
+button:hover{
+    background-color: white;
+    color: #ff9d00;
+}
+div{
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 400px;
+    text-align: center;
+    background: transparent;
+}
